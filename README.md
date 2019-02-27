@@ -4,7 +4,7 @@ A set of three maltego local transforms useful for handling and translating Chin
 
 - Translate Simplified Chinese characters to English
 - Translate English to Simplified Chinese characters
-- Translate Simplified Chinese character to Pinyin.
+- Translate Simplified Chinese characters to Pinyin.
 
 ## Getting Started
 
