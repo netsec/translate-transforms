@@ -6,11 +6,9 @@ A set of three maltego local transforms useful for handling and translating Chin
 - Translate English to Simplified Chinese characters
 - Translate Simplified Chinese character to Pinyin.
 
-I frequently use Chinese language data sources within Maltego charts. For example, data sourced from Weibo, web scrapes, forums, bbs and even Chinese language entries in WHOIS records. I thought it useful to have a simple set of machine translation transforms at my fingertips within Maltego as i'm building my charts.  
-
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+I frequently use Chinese language data sources within Maltego charts. For example, data sourced from Weibo, web scrapes, forums, bbs and even Chinese language entries in WHOIS records. I thought it useful to have a simple set of machine translation transforms at my fingertips within Maltego as i'm building my charts.  
 
 <p align="center">
   <img src="/doc/translate.png">
