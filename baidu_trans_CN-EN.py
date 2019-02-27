@@ -20,7 +20,7 @@ def multiReplace(inputStr, replacements):
 
 # Function to clean input strings
 def cleanInput(inputStr):
-    cleanStr = multiReplace(inputStr, [',', '.', '-', "'"]).strip()
+    cleanStr = multiReplace(inputStr, [',', '.', '-', "'", ':', ';']).strip()
     return cleanStr
 
 # Initialize Maltego library
