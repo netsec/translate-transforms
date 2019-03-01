@@ -2,6 +2,7 @@
 # -*- encoding: utf-8 -*-
 # Maltego local transform for translating simplified Chinese character to Pinyin text
 # This transfom makes use of Pypi module 'pinyin' (pip install pinyin)
+import sys
 import codecs
 import pinyin
 from MaltegoTransform import *
