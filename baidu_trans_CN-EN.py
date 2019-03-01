@@ -2,6 +2,7 @@
 # -*- encoding: utf-8 -*-
 # Maltego local tranform for the Baidu Translate API.
 # Translate simpified Chinese to English.
+import sys
 import random
 import codecs
 import requests
