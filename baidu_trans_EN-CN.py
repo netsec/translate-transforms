@@ -14,9 +14,10 @@ import baiduApiKeys
 
 # Function to replace multiple chars in a string
 def multiReplace(inputStr, replacements):
+    newStr = inputStr
     # Iterate over the strings to be replaced
     for replaceStr in replacements:
-        newStr = inputStr.replace(replaceStr, "") 
+        newStr = newStr.replace(replaceStr, "") 
     return  newStr
 
 # Function to clean input strings
