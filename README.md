@@ -63,7 +63,7 @@ These transforms can be run like any other local transforms. I find it useful to
 
 ## Authors
 
-* **Andrew Houlbrook** - *Initial work* - [ba2baha3o](https://github.com/ba2baha3o)
+* **Andrew Houlbrook** - *Initial work* - [andrewhoulbrook](https://github.com/andrewhoulbrook)
 
 ## License
 
